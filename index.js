@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Anh xin lỗi vì khoản thời gian cố chấp lúc trước của anh, nếu vẫn còn tin anh thì hãy mở thư nhé." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Anh xin lỗi vì khoản thời gian cố chấp lúc trước của anh, cảm ơn vì còn tin anh." //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc mừng sinh nhật cô gái đến từ tháng năm, anh biết là mối quan hệ của chúng ta đã xảy ra một vài biến cố và khiến nó không còn như trước. Nhưng anh vẫn luôn muốn dành những lời chúc tốt đẹp nhất cho em. Chúc em thật bình an, hạnh phúc bên những người mà em yêu thương và hãy thật vững tin với những lựa chọn của em nhé!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
