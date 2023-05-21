@@ -12,6 +12,10 @@ body {
     width: 100%;
     overflow: hidden;
 }
+.Nhac{
+    background-color: rgba(72, 209, 204, 1);   
+    overflow: hidden;
+}
 
 .startForm {
     z-index: 7;
